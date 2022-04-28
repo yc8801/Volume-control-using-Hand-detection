@@ -1,1 +1,1 @@
-# Volume-control-using-Hand-ditection
+# Volume-control-using-Hand-detection
